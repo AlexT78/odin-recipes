@@ -1,0 +1,23 @@
+.title {
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: arial,sans-serif,helvetica;
+}
+
+.recipe {
+    background-color: #ADC2A9;
+    color: #99A799;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h3 {
+    background-color: #FEF5ED ;
+    color: #8E806A;
+}
